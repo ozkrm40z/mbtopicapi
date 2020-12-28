@@ -1,0 +1,7 @@
+.vs/
+Eventbus.Api/bin/Debug/net5.0/Eventbus.Api.exe
+Eventbus.Api/bin/Debug/
+Eventbus.Api/bin/Release/
+Eventbus.Api/obj/
+Eventbus.Core/obj/
+publish/
